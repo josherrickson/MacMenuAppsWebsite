@@ -177,6 +177,8 @@ h1 {
     border-radius: 8px;
     font-weight: 600;
     transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
 }
 
 .primary-btn {
